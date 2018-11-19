@@ -1,0 +1,55 @@
+.no-pad{
+  padding: 0 !important;
+}
+.p-a-4{
+  padding: 4px;
+}
+.p-a-1{
+  padding: 1em;
+}
+.p-x-8{
+  padding: 0 8px;
+}
+.p-t-13{
+  padding-top: 13em;
+}
+.p-t-4{
+  padding-top: 4px;
+}
+.m-l-4 {
+  margin-left: 4px;
+}
+.m-r-4 {
+  margin-right: 4px;
+}
+.m-t-4 {
+  margin-top: 4px;
+}
+.m-t-8 {
+  margin-top: 8px;
+}
+.m-b-8 {
+  margin-bottom: 8px;
+}
+.m-b-4 {
+  margin-bottom: 4px !important;
+}
+.m-y-4 {
+  margin: 4px 0 !important;
+}
+.m-x-8 {
+  margin: 0 8px;
+}
+.full-width {
+  width: 100%;
+}
+.full-height{
+  min-height: 100vh;
+}
+.fit {
+  width: 100% !important;
+  height: 100% !important;
+}
+.no-margin-first:first-child {
+  margin: 0 !important;
+}
